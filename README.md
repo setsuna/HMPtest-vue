@@ -65,7 +65,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+启动后测试地址 http://122.224.239.138:3001/
 ### 生产构建
 
 ```bash
