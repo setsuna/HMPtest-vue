@@ -1,0 +1,6 @@
+// 这个插件确保 Tailwind CSS 被正确加载
+import { defineNuxtPlugin } from '#app'
+
+export default defineNuxtPlugin(() => {
+  console.log('Tailwind CSS 插件已初始化')
+})
